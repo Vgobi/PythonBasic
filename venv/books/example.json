@@ -1,0 +1,12 @@
+{
+  "Title": "Systemy",
+  "SubTitle": "",
+  "Authors": ["Athor1", "Author2", "Author3"],
+  "Publisher": "Helion",
+  "Year": 1999,
+  "ReadDate": 2000,
+  "Owner": "Adam",
+  "User": "",
+  "Rating": 7.5,
+  "Notes": "testowa ksiazka"
+}
