@@ -1,12 +1,12 @@
 {
-  "Title": "Inaczej",
-  "SubTitle": "",
-  "Authors": ["Radoslaw Kotarski"],
-  "Publisher": "Aliba",
-  "Year": 2021,
-  "ReadDate": 2021,
-  "Owner": "Adam",
-  "User": "",
-  "Rating": 8.5,
-  "Notes": "biadolenia"
+  "title": "Inaczej",
+  "sub_title": "",
+  "authors": ["Radoslaw Kotarski"],
+  "publisher": "Aliba",
+  "year": 2021,
+  "read_date": 2021,
+  "owner": "Adam",
+  "user": "",
+  "rating": 8.5,
+  "notes": "biadolenia"
 }
